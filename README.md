@@ -22,6 +22,7 @@ Examples
 
 Commands: new 10, play 3 4, play 3 3, play 0 0, play 6 6
 
+
 B---------
 ----------
 ----------
