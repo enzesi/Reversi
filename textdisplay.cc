@@ -14,7 +14,7 @@ TextDisplay::TextDisplay(int n):gridSize(n){ //ctor
     for (int i = 0; i < n; i++) {
         vector<char> v;
         for (int j = 0; j < n; j++) {
-            v.emplace_back('?');
+            v.emplace_back('-');
         }
         theDisplay.emplace_back(v);
     }
