@@ -55,5 +55,5 @@ int main(int argc, char *argv[]) {
             }
         }
   }
-  catch (ios::failure &) {}  s
+  catch (ios::failure &) {}
 }
