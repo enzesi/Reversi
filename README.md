@@ -19,8 +19,7 @@ The following are the commands to play the game
   
   
 Examples
-
-new 10     
+     
 ----------
 ----------
 ----------
